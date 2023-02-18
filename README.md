@@ -65,6 +65,12 @@
     console.log(foo);
     ```
 
-        Uncaught ReferenceError: Cannot access 'foo' before initialization
+        Uncaught ReferenceError: Cannot access 'foo' before initialization at...
 
-    at
+SOFT SKILLS
+
+Цели:
+
+1. Повторить материалы 10 недели (срок: 3 дня)
+2. Изучить доп. материалы по JS (срок: 2 недели)
+3. Практиковаться в верстке, повторять материалы (срок: 4 недели)
